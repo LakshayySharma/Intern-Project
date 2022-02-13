@@ -1,0 +1,8 @@
+.filter {
+  background: #131313;
+  border-radius: 15px;
+}
+
+.filter select {
+  width: 7rem;
+}

@@ -1,0 +1,12 @@
+.product-card {
+  background-color: #a32313;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  word-wrap: break-word;
+  font-size: 10px;
+}
+
+.card {
+  margin-right: 10px;
+}
